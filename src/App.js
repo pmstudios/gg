@@ -2,12 +2,12 @@ import React, { Component } from 'react';
 import './App.css';
 import './index.css'
 
-import dataMap from './RedeemCode_Opus.json';
+import dataMap from './RedeemCode_GG.json';
 
 const divStyle = {
   width: '100%',
   height: 'auto',
-  backgroundImage: 'url(./images/Bg_background.jpg)',
+  backgroundImage: 'url(./images/Background.jpg)',
   backgroundPosition: 'center',
   backgroundSize: 'cover',
   backgroundRepeat: 'no-repeat',
@@ -87,7 +87,7 @@ class App extends Component {
 			<div style={divStyle}>
 				<div className="frame">
 					<div className="top center">
-						<img src={'./images/Logo_opus.png'} alt='opus' />
+						<img src={'./images/Logo.png'} alt='Girl Genius' />
 						<div className="title">
 							<h1>Girl Genius</h1>
 							<h1>Bonus Digital Soundtrack Download</h1>
