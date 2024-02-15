@@ -95,8 +95,8 @@ class App extends Component {
 					</div>
 					<div className="middle center">
 						<div className="text01">
-							Thank you for purchasing Girl Genius. This is the Downloadable Soundtrack page to<br/> 
-							redeem your bonus voucher included with first print copies for Nintendo Switch.
+							Thank you for purchasing Girl Genius. This is the Downloadable Soundtrack page to redeem your <br/> 
+							bonus voucher included with first print copies for Nintendo Switch.
 						</div>
 						<div className="text02">
 							**This is not to purchase the actual game. Please do not purchase this item as it is non-refundable<br/> 
