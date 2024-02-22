@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import './index.css'
 
-import dataMap from './RedeemCode_GG.json';
+import dataMap from './RedeemCode_GGenius.json';
 
 const divStyle = {
   width: '100%',
