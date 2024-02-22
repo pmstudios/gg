@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/redeem_gg/static/css/main.aa3bf6a0.chunk.css",
-    "main.js": "/redeem_gg/static/js/main.e6b17cc8.chunk.js",
-    "main.js.map": "/redeem_gg/static/js/main.e6b17cc8.chunk.js.map",
+    "main.css": "/redeem_gg/static/css/main.953250c6.chunk.css",
+    "main.js": "/redeem_gg/static/js/main.a94297c7.chunk.js",
+    "main.js.map": "/redeem_gg/static/js/main.a94297c7.chunk.js.map",
     "runtime-main.js": "/redeem_gg/static/js/runtime-main.d2a0d904.js",
     "runtime-main.js.map": "/redeem_gg/static/js/runtime-main.d2a0d904.js.map",
     "static/js/2.70d39452.chunk.js": "/redeem_gg/static/js/2.70d39452.chunk.js",
     "static/js/2.70d39452.chunk.js.map": "/redeem_gg/static/js/2.70d39452.chunk.js.map",
     "index.html": "/redeem_gg/index.html",
-    "precache-manifest.8a5f3787b2f8d94f69a44512e9b3f377.js": "/redeem_gg/precache-manifest.8a5f3787b2f8d94f69a44512e9b3f377.js",
+    "precache-manifest.d9b0d908c251f07da373a3bda6fb907b.js": "/redeem_gg/precache-manifest.d9b0d908c251f07da373a3bda6fb907b.js",
     "service-worker.js": "/redeem_gg/service-worker.js",
-    "static/css/main.aa3bf6a0.chunk.css.map": "/redeem_gg/static/css/main.aa3bf6a0.chunk.css.map",
+    "static/css/main.953250c6.chunk.css.map": "/redeem_gg/static/css/main.953250c6.chunk.css.map",
     "static/js/2.70d39452.chunk.js.LICENSE.txt": "/redeem_gg/static/js/2.70d39452.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d2a0d904.js",
     "static/js/2.70d39452.chunk.js",
-    "static/css/main.aa3bf6a0.chunk.css",
-    "static/js/main.e6b17cc8.chunk.js"
+    "static/css/main.953250c6.chunk.css",
+    "static/js/main.a94297c7.chunk.js"
   ]
 }
